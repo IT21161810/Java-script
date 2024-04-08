@@ -56,3 +56,7 @@ Car.prototype.getCar = function(){
 Car.prototype =  Vehicle.prototype;
 const car = new Car();
 car.getCar()
+
+const getData = () => {
+    
+}
